@@ -1,0 +1,2 @@
+// node stuff
+// require('self');
